@@ -1,0 +1,4 @@
+editor
+*.png
+*jpg
+.DS_Store
